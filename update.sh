@@ -6,4 +6,4 @@ echo -n "Enter a password: "
 read -s firstpassword
 echo
 
-git push
+#git push
