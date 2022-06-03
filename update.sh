@@ -1,6 +1,9 @@
 git add .
 git commit -m "$"
 echo "$"
-git push
-read -s "lidingx.zz@gmail.com"
+
+echo -n "Enter a password: "
+read -s firstpassword
 echo
+
+git push
