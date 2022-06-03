@@ -6,4 +6,4 @@ echo "$*"
 #echo
 
 git push
-read -s firstpassword
+echo
