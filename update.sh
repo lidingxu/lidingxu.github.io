@@ -1,4 +1,4 @@
 git add .
-git commit -m "111"
+git commit -m "$"
 git push
 
