@@ -16,7 +16,7 @@ My research interests are in the area of mixed integer linear and nonlinear prog
 - Cutting plane methods.
 - Applications in wireless networks and urban mobility problems.
 
-Most of my research are based on open-source software, and most of my codes are open-source.
+My research are mostly based on open-source software, and most of my codes are open-source.
 
 ## My background
 
