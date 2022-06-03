@@ -3,4 +3,4 @@ git commit -m "$*"
 echo "$*"
 #echo
 git push
-echo
+echo "liding"
