@@ -1,4 +1,4 @@
 git add .
-git commit -m "$"
+git commit -m "111"
 git push
-echo "lidingx.zz@gmail.com" 
+
