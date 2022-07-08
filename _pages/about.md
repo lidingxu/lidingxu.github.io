@@ -20,6 +20,9 @@ My research are mostly based on open-source software, and most of my codes are o
 
 ## My background
 
-I did master study in [M2 Optimization](https://www.imo.universite-paris-saclay.fr/fr/students/master/mathematiques-et-applications/m2/optimization/),  a joint program between [Université Paris-Saclay](https://www.imo.universite-paris-saclay.fr/?lang=fr) and [Institut Polytechnique de Paris](https://www.ip-paris.fr/en). Priori to that, I spent 1-year at [École Polytechnique](https://www.polytechnique.edu/en) as an M1 student in computer science. I obtained my bachelor degree in machine intellegence from [Peking University](http://english.pku.edu.cn/).
+I did master study in [M2 Optimization](https://www.imo.universite-paris-saclay.fr/en/students/masters-programs/mathematics-and-applications/m2/optimization/),  a joint program between [Université Paris-Saclay](https://www.imo.universite-paris-saclay.fr/?lang=fr) and [Institut Polytechnique de Paris](https://www.ip-paris.fr/en). Priori to that, I spent 1-year at [École Polytechnique](https://www.polytechnique.edu/en) as an M1 student in computer science. I obtained my bachelor degree in machine intellegence from [Peking University](http://english.pku.edu.cn/).
+
+## Scientific activities
+Reviewers: [Journal of Global Optimization](https://www.springer.com/journal/10898), [EURO Journal on Computational Optimization](https://www.journals.elsevier.com/euro-journal-on-computational-optimization).
 
 
