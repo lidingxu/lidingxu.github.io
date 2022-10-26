@@ -19,7 +19,7 @@
 
 
 
-<title>cbp: branch-and-price algorithms for conic submodular binpacking - Liding Xu</title>
+<title>Traces.jl: A traces wrapper for graph canonical labeling and automorphism group computation - Liding Xu</title>
 
 
 
@@ -29,15 +29,15 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="Liding Xu">
-<meta property="og:title" content="cbp: branch-and-price algorithms for conic submodular binpacking">
+<meta property="og:title" content="Traces.jl: A traces wrapper for graph canonical labeling and automorphism group computation">
 
 
-  <link rel="canonical" href="https://github.com/pages/academicpages/academicpages.github.io/software/2022-cbp">
-  <meta property="og:url" content="https://github.com/pages/academicpages/academicpages.github.io/software/2022-cbp">
+  <link rel="canonical" href="https://github.com/pages/academicpages/academicpages.github.io/software/2022-traces.jl">
+  <meta property="og:url" content="https://github.com/pages/academicpages/academicpages.github.io/software/2022-traces.jl">
 
 
 
-  <meta property="og:description" content="Binpacking is an important combinatorial problem in operations research. Conic submodular binpacking generalizes the classical binpacking problem to nonlinear setting, and it can formulate the chance-constrained binpacking, the distributionally robust binpacking etc. cbp implements several branch-and-price algorithms to solve the conic submodular binpacking problems. Github">
+  <meta property="og:description" content="A simple julia wrapper for traces Github">
 
 
 
@@ -52,7 +52,7 @@
 
 
   <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2022-03-15T00:00:00+01:00">
+  <meta property="article:published_time" content="2022-10-03T00:00:00+02:00">
 
 
 
@@ -254,21 +254,21 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="cbp: branch-and-price algorithms for conic submodular binpacking">
-    <meta itemprop="description" content="Binpacking is an important combinatorial problem in operations research. Conic submodular binpacking generalizes the classical binpacking problem to nonlinear setting, and it can formulate the chance-constrained binpacking, the distributionally robust binpacking etc. cbp implements several branch-and-price algorithms to solve the conic submodular binpacking problems. Github">
-    <meta itemprop="datePublished" content="March 15, 2022">
+    <meta itemprop="headline" content="Traces.jl: A traces wrapper for graph canonical labeling and automorphism group computation">
+    <meta itemprop="description" content="A simple julia wrapper for traces Github">
+    <meta itemprop="datePublished" content="October 03, 2022">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">cbp: branch-and-price algorithms for conic submodular binpacking
+          <h1 class="page__title" itemprop="headline">Traces.jl: A traces wrapper for graph canonical labeling and automorphism group computation
 </h1>
           
         
         
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2022-03-15T00:00:00+01:00">March 15, 2022</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2022-10-03T00:00:00+02:00">October 03, 2022</time></p>
         
         
              
@@ -278,9 +278,7 @@
       
 
       <section class="page__content" itemprop="text">
-        <p>Binpacking is an important combinatorial problem in operations research. Conic submodular binpacking generalizes the classical binpacking problem to nonlinear setting, and it can formulate the chance-constrained binpacking, the distributionally robust binpacking etc. cbp implements several branch-and-price algorithms to solve the conic submodular binpacking problems. <a href="https://github.com/lidingxu/cbp">Github</a></p>
-
-<p>wUMCFC is written in C++ based on <a href="https://www.scipopt.org/">SCIP</a>. It also requires CPLEX to build.</p>
+        <p>A simple julia wrapper for traces <a href="https://github.com/lidingxu/Traces.jl">Github</a></p>
 
 
         
@@ -302,11 +300,11 @@
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=/software/2022-cbp" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=/software/2022-traces.jl" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=/software/2022-cbp" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=/software/2022-traces.jl" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=/software/2022-cbp" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=/software/2022-traces.jl" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
       
@@ -314,12 +312,11 @@
 
   <nav class="pagination">
     
-      <a href="/software/2022-cflg" class="pagination--pager" title="cflg: an algorithmic toolkit for continuous set covering on networks
+      <a href="/software/2022-cbp" class="pagination--pager" title="cbp: branch-and-price algorithms for conic submodular binpacking
 ">Previous</a>
     
     
-      <a href="/software/2022-traces.jl" class="pagination--pager" title="Traces.jl: A traces wrapper for graph canonical labeling and automorphism group computation
-">Next</a>
+      <a href="#" class="pagination--pager disabled">Next</a>
     
   </nav>
 
