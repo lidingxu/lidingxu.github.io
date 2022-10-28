@@ -13,8 +13,12 @@
 <lastmod>2022-03-15T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>/software/2022-traces.jl</loc>
+<loc>/software/2022-traces</loc>
 <lastmod>2022-10-03T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>/software/2022-SymMIP</loc>
+<lastmod>2022-10-27T00:00:00+02:00</lastmod>
 </url>
 <url>
 <loc>/talks/2021-04-28-talk-1</loc>
@@ -76,7 +80,7 @@
 </url>
 <url>
 <loc>/papers/sub.pdf</loc>
-<lastmod>2022-10-26T13:47:46+02:00</lastmod>
+<lastmod>2022-10-28T12:57:58+02:00</lastmod>
 </url>
 <url>
 <loc>/slides/HUGO2022.pdf</loc>
