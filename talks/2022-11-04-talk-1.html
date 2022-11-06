@@ -19,7 +19,7 @@
 
 
 
-<title>SymMIP.jl: Symmetry analysis for MIPs - Liding Xu</title>
+<title>On On a Concept of a Generic Intersection Cut Callback - Liding Xu</title>
 
 
 
@@ -29,15 +29,15 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="Liding Xu">
-<meta property="og:title" content="SymMIP.jl: Symmetry analysis for MIPs">
+<meta property="og:title" content="On On a Concept of a Generic Intersection Cut Callback">
 
 
-  <link rel="canonical" href="https://github.com/pages/academicpages/academicpages.github.io/software/2022-SymMIP">
-  <meta property="og:url" content="https://github.com/pages/academicpages/academicpages.github.io/software/2022-SymMIP">
+  <link rel="canonical" href="https://github.com/pages/academicpages/academicpages.github.io/talks/2022-11-04-talk-1">
+  <meta property="og:url" content="https://github.com/pages/academicpages/academicpages.github.io/talks/2022-11-04-talk-1">
 
 
 
-  <meta property="og:description" content="Detect the formulation symmetry group of a MILP model, and display the orbits and the generators of this group. Github">
+  <meta property="og:description" content="Intersection cut framework can generate valid linear inequalities for a nonconvex set $S$. The framework requires a corner polyhedron relaxation of $S$, and a convex $S$-free set, which does not contain any point of $S$ in its interior. In this talk, I will review the recent development of intersection cuts in MINLPs (e.g quadratic/polynomial programming and signomial programming), featuring the construction of a variety of $S$-free sets. On the other hand, implementation of intersection cut requires much knowledge of a solver’s data structure and numerical stability. Software engineering can help here, as the solver can encapsulate cut separation procedures and provides an intersection cut callback without need for symbolic representation of $S$. Then, the users only need to provide defining-variables, zero- and first-order oracle access to the $S$-free set. I will also discuss some limitations of intersection cuts and open problems. slides">
 
 
 
@@ -52,7 +52,7 @@
 
 
   <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2022-10-27T00:00:00+02:00">
+  <meta property="article:published_time" content="2022-11-04T00:00:00+01:00">
 
 
 
@@ -254,32 +254,29 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="SymMIP.jl: Symmetry analysis for MIPs">
-    <meta itemprop="description" content="Detect the formulation symmetry group of a MILP model, and display the orbits and the generators of this group. Github">
-    <meta itemprop="datePublished" content="October 27, 2022">
+    <meta itemprop="headline" content="On On a Concept of a Generic Intersection Cut Callback">
+    <meta itemprop="description" content="Intersection cut framework can generate valid linear inequalities for a nonconvex set $S$. The framework requires a corner polyhedron relaxation of $S$, and a convex $S$-free set, which does not contain any point of $S$ in its interior. In this talk, I will review the recent development of intersection cuts in MINLPs (e.g quadratic/polynomial programming and signomial programming), featuring the construction of a variety of $S$-free sets. On the other hand, implementation of intersection cut requires much knowledge of a solver’s data structure and numerical stability. Software engineering can help here, as the solver can encapsulate cut separation procedures and provides an intersection cut callback without need for symbolic representation of $S$. Then, the users only need to provide defining-variables, zero- and first-order oracle access to the $S$-free set. I will also discuss some limitations of intersection cuts and open problems. slides">
+    <meta itemprop="datePublished" content="November 04, 2022">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">SymMIP.jl: Symmetry analysis for MIPs
+          <h1 class="page__title" itemprop="headline">On On a Concept of a Generic Intersection Cut Callback
 </h1>
           
         
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="2022-11-04T00:00:00+01:00">November 04, 2022</time></p>
         
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2022-10-27T00:00:00+02:00">October 27, 2022</time></p>
-        
-        
-             
-        
-    
+
         </header>
       
 
       <section class="page__content" itemprop="text">
-        <p>Detect the formulation symmetry group of a MILP model, and display the orbits and the generators of this group. <a href="https://github.com/lidingxu/SymMIP.jl">Github</a></p>
+        <p>Intersection cut framework can generate valid linear inequalities for a nonconvex set $S$. The framework requires a corner polyhedron relaxation of $S$, and a convex $S$-free set, which does not contain any point of $S$ in its interior. In this talk, I will review the recent development of intersection cuts in MINLPs (e.g quadratic/polynomial programming and signomial programming), featuring the construction of a variety of $S$-free sets. On the other hand, implementation of intersection cut requires much knowledge of a solver’s data structure and numerical stability. Software engineering can help here, as the solver can encapsulate cut separation procedures and provides an intersection cut callback without need for symbolic representation of $S$. Then, the users only need to provide defining-variables, zero- and first-order oracle access to the $S$-free set. I will also discuss some limitations of intersection cuts and open problems. <a href="/slides/SCIP2022.pdf">slides</a></p>
 
+<p>This talk is presented at session <em>SCIP Workshop 2022</em> (<a href="https://www.scipopt.org/20years/">SCIP2022</a>).</p>
 
         
       </section>
@@ -300,11 +297,11 @@
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=/software/2022-SymMIP" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=/talks/2022-11-04-talk-1" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=/software/2022-SymMIP" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=/talks/2022-11-04-talk-1" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=/software/2022-SymMIP" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=/talks/2022-11-04-talk-1" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
       
@@ -312,7 +309,7 @@
 
   <nav class="pagination">
     
-      <a href="/software/2022-traces" class="pagination--pager" title="Traces.jl: A traces wrapper for graph canonical labeling and automorphism group computation
+      <a href="/talks/2022-09-07-talk-1" class="pagination--pager" title="(Three) Cutting Planes for Signomial Programming
 ">Previous</a>
     
     
