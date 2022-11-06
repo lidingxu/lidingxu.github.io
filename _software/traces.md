@@ -5,4 +5,4 @@ permalink: /software/2022-traces
 date: 2022-10-03
 ---
 
-A simple julia wrapper for traces [Github](https://github.com/lidingxu/Traces.jl)
+A simple julia wrapper for traces. [Github](https://github.com/lidingxu/Traces.jl)
