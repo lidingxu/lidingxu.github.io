@@ -34,6 +34,15 @@ Publications
 ## Conferences and Workshops
 
 {% bibliography -q @inproceedings %}
+
+## Thesis
+
+### Doctoral thesis
+{% bibliography -q @doctorthesis %}
+
+### Master thesis
+{% bibliography -q @masterthesis %}
+
   
 Talks
 ======
