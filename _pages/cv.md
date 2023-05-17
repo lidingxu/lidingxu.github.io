@@ -25,7 +25,7 @@ Publications
 
 ## Preprints and Reports
 
-{% bibliography -q @unpublished @techreport %}
+{% bibliography -q @unpublished @techreport @misc %}
 
 ## Journal Articles
 
