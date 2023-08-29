@@ -23,6 +23,6 @@ My research are mostly based on open-source software, and most of my codes are o
 I did master study in [Master in Optimization](https://www.master-in-optimization.fr/),  a joint program between [Université Paris-Saclay](https://www.imo.universite-paris-saclay.fr/?lang=fr) and [Institut Polytechnique de Paris](https://www.ip-paris.fr/en). Priori to that, I spent 1-year at [École Polytechnique](https://www.polytechnique.edu/en) as an M1 student in computer science. I obtained my bachelor degree in machine intellegence from [Peking University](http://english.pku.edu.cn/).
 
 ## Scientific service
-Reviewers: [Journal of Global Optimization](https://www.springer.com/journal/10898), [EURO Journal on Computational Optimization](https://www.journals.elsevier.com/euro-journal-on-computational-optimization), [Annals of Operations Research](https://www.springer.com/journal/10479).
+Reviewers: [Journal of Global Optimization](https://www.springer.com/journal/10898), [EURO Journal on Computational Optimization](https://www.journals.elsevier.com/euro-journal-on-computational-optimization), [Annals of Operations Research](https://www.springer.com/journal/10479), [Geometric Science of Information](https://conference-gsi.org/#).
 
 
