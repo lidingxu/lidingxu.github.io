@@ -1,0 +1,69 @@
+submitted:
+
+ # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+ #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+ #   conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+ #   pdf: https://arxiv.org/pdf/2306.00988.pdf
+ #   code: https://github.com/MrGiovanni/ContinualLearning
+ #  bibtex: https://bib.yliu.me/MICCAI23.txt
+ #  image: ./assets/img/teaser_example_2.png
+
+  - title: "On Cutting Planes for Extended Formulation of Signomial Programming"
+    authors: Xu, Liding and D'Ambrosio, Claudia and Liberti, Leo and Vanier, Sonia Haddad
+    conference: Technical report
+    arxiv: https://arxiv.org/abs/2212.02857
+    code: https://github.com/lidingxu/ESPCuts
+ 
+
+  
+accepted:
+
+  - title: "Submodular maximization and its generalization through an intersection cut lens"
+    authors: Xu, Liding and Liberti, Leo
+    conference: Mathematical Programming Series B
+    arxiv: https://arxiv.org/abs/2302.14020
+    code: https://github.com/lidingxu/cflg
+
+published:
+
+  - title: "Continuous covering on networks: Improved mixed integer programming formulations"
+    authors: Mercedes Pelegrín and Liding Xu
+    conference: Omega
+    arxiv: https://arxiv.org/abs/2203.00284
+    code: https://github.com/lidingxu/cflg
+    doi: https://doi.org/10.1016/j.omega.2023.102835
+
+  - title: "Branch and price for submodular bin packing"
+    authors: <strong>Xu, Liding</strong> and D'Ambrosio, Claudia and Haddad-Vanier, Sonia and Traversi, Emiliano
+    conference: EURO Journal on Computational Optimization
+    arxiv: https://arxiv.org/abs/2204.00320
+    code: https://github.com/lidingxu/cbp
+    doi: https://doi.org/10.1016/j.ejco.2023.100074
+
+  - title: "Branch-and-price for energy optimization in multi-hop wireless sensor networks"
+    authors: <strong>Xu, Liding</strong> and Haddad Vanier, Sonia
+    conference: Networks
+    doi: https://doi.org/10.1002/net.22083
+    code: https://github.com/lidingxu/wUMCFC
+
+  - title: "Optimization in Wireless Networks"
+    authors: Oustry, Antoine and <strong>Xu, Liding</strong> and Haddad-Vanier, Sonia and Cordero, Juan-Antonio and Clausen, Thomas
+    conference: Encyclopedia of Optimization
+    hal: https://hal.science/hal-03647212
+    doi: https://doi.org/10.1007/978-3-030-54621-2_751-1
+
+
+  - title: "Urban Air Mobility"
+    authors: <strong>Xu, Liding</strong> and D'Ambrosio, Claudia and Haddad-Vanier, Sonia and Traversi, Emiliano
+    conference: Encyclopedia of Optimization 
+    hal: https://hal.science/hal-03723027
+    doi: https://doi.org/10.1007/978-3-030-54621-2_747-1
+
+phdthesis:
+
+  - title: "Relaxation methods for mixed-integer nonlinear programming"
+    authors: Leo Liberti (director of thesis), Claudia D’Ambrosio (co-director), Sonia Haddad-Vanier (co-supervision)
+    conference: LIX, École Polytechnique
+    pdf: /paper/pht_thesis.pdf
+
+
