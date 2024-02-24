@@ -1,6 +1,9 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
+
+{% if site.data.publications.submitted.size > 0 %}
+
 <h3 id="publications">Submitted</h3>
 
 <ol class="bibliography">
@@ -45,6 +48,11 @@
 
 </ol>
 
+{% endif %}
+
+
+{% if site.data.publications.accepted.size > 0 %}
+
 <h3 id="publications">Accepted</h3>
 
 <ol class="bibliography">
@@ -84,6 +92,8 @@
 {% endfor %}
 
 </ol>
+
+{% endif %}
 
 <h3 id="publications">Published</h3>
 

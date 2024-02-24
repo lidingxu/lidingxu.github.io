@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D student at Laboratoire d'informatique de l'École Polytechnique (LIX), where I am part of OptimiX group.
+I got my Ph.D. at Laboratoire d'informatique de l'École Polytechnique (LIX), where I am part of OptimiX group.
 
 
 ## Research Interests
