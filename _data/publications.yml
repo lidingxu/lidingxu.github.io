@@ -65,6 +65,7 @@ phdthesis:
   - title: "Relaxation methods for mixed-integer nonlinear programming"
     authors: Supervised by Leo Liberti (director of thesis), Claudia D’Ambrosio (co-director), Sonia Haddad-Vanier (co-supervision)
     location: LIX, École Polytechnique
-    pdf: /paper/pht_thesis.pdf
+    hal: https://theses.hal.science/tel-04461935
+    theses.fr: https://www.theses.fr/2023IPPAX150
 
 
