@@ -151,8 +151,8 @@
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><i>{{ link.location }}</i></div>
     <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.theses }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">THESES.FR</a>
+      {% if link.link %} 
+      <a href="{{ link.link }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">THESES.FR</a>
       {% endif %}
       {% if link.hal %} 
       <a href="{{ link.hal }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">HAL</a>
