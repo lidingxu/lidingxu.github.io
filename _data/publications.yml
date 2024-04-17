@@ -8,6 +8,12 @@ submitted:
  #  bibtex: https://bib.yliu.me/MICCAI23.txt
  #  image: ./assets/img/teaser_example_2.png
 
+  - title: "Formulations of the continuous set-covering problem on networks: a comparative study"
+    authors: Liding Xu and Claudia D'Ambrosio
+    conference: Technical report
+    arxiv: https://arxiv.org/abs/2404.10467
+    code: https://github.com/lidingxu/cflg
+    
   - title: "On Cutting Planes for Extended Formulation of Signomial Programming"
     authors: <strong>Xu, Liding</strong> and D'Ambrosio, Claudia and Liberti, Leo and Vanier, Sonia Haddad
     conference: Technical report
