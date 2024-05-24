@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a postdoc of IOL group at Zuse-Institut Berlin. I got my Ph.D. at Laboratoire d'informatique de l'École Polytechnique (LIX), where I was part of OptimiX group.
+I am a postdoc researcher in IOL group at Zuse-Institut Berlin. I got my Ph.D. at Laboratoire d'informatique de l'École Polytechnique (LIX), where I was part of OptimiX group.
 
 
 ## Research Interests
