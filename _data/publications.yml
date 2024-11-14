@@ -19,7 +19,7 @@ submitted:
     arxiv: https://arxiv.org/abs/2404.10467
     code: https://github.com/lidingxu/cflg
     
-  - title: "On Cutting Planes for Extended Formulation of Signomial Programming"
+  - title: "On Cutting Planes for Signomial Programming"
     authors: <strong>Liding Xu</strong>, Claudia D'Ambrosio, Leo Liberti and Sonia Haddad Vanier
     conference: SIAM Journal on Optimization (to appear)
     arxiv: https://arxiv.org/abs/2212.02857
