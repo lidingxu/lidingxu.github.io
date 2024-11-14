@@ -17,7 +17,7 @@ I study mixed integer linear and nonlinear programming, with a special interest 
 * **M.S.** in Mathematics, Optimization track,  Université Paris-Saclay & Institut Polytechnique de Paris, 2020
 * **B.S.** in Machine Intelligence, Peking University, 2018
 
-Full CV: <a target="_blank" href="/paper/liding_xu_cv.pdf"><autocolor>pdf</autocolor></a>
+Full CV: <a target="_blank" href="/files/liding_xu_cv.pdf"><autocolor>pdf</autocolor></a>
 
 {% include_relative _includes/publications.md %}
 
