@@ -7,45 +7,50 @@ main:
  #   code: https://github.com/MrGiovanni/ContinualLearning
  #  bibtex: https://bib.yliu.me/MICCAI23.txt
  #  image: ./assets/img/teaser_example_2.png
-
+  - title: "Modelling of piece-wise linear concave constraints in continous covering problems"
+    location: Copenhagen, Denmark, 2024-07
+    conference: 33rd European Conference on Operational Research (EURO2024)
+    link: https://www.roadef.org/jfro/seminarday.php?id=50
+    pdf: /slides/EURO2024.pdf
+    
   - title: "Branch and price for submodular bin packing"
-    location: Paris, France, 2024-02-02
+    location: Paris, France, 2024-02
     conference: 43e Journée Francilienne de Recherche Opérationnelle, BinPacking workshop (JFRO2024)
     link: https://www.roadef.org/jfro/seminarday.php?id=50
     pdf: /slides/JFRO2024.pdf
 
   - title: "MILP formulations for continuous set-covering on networks"
-    location: Renne, France, 2023-02-21
+    location: Renne, France, 2023-02
     conference: 24ème édition du congrès annuel de la Société Française de Recherche Opérationnelle et d'Aide à la Décision (ROADEF2023)
     link: https://roadef2023.sciencesconf.org/
     pdf: /slides/ROADEF2023.pdf
 
   - title: "Intersection cuts meet submodularity: the good and the bad"
-    location: Aussois, France, 2023-01-13
+    location: Aussois, France, 2023-01
     conference: Aussois Combinatorial Optimization Workshop 2023
     link: http://www.iasi.cnr.it/aussois/web/home/program/year/2023
     pdf: /slides/Aussois2023.pdf
  
   - title: "On a Concept of a Generic Intersection Cut Callback"
-    location: Berlin, Germany, 2022-11-04
+    location: Berlin, Germany, 2022-11
     conference: SCIP Workshop 2022
     link: https://www.scipopt.org/20years/
     pdf: /slides/SCIP2022.pdf
 
   - title: "Cutting Planes for Signomial Programming"
-    location: Szeged, Hungary, 2022-09-07
+    location: Szeged, Hungary, 2022-09
     conference: XV. Workshop on Global Optimization (HUGO2022) 
     link: http://www.inf.u-szeged.hu/hugo/
     pdf: /slides/HUGO2022.pdf
 
   - title: "An algorithmic toolkit for continuous set-covering on networks"
-    location: Espoo, Finand, 2022-07-04
+    location: Espoo, Finand, 2022-07
     conference: 32st European Conference on Operational Research (EURO2022)
     link: https://euro2022espoo.com/
     pdf: /slides/cflg.pdf
 
   - title: "Optimal Location of Safety Landing Sites"
-    location: Athens, Greece, 2021-07-12
+    location: Athens, Greece, 2021-07
     conference: 31st European Conference on Operational Research (EURO2021) 
     link: https://euro2021athens.com/
     pdf: /slides/euro2021july.pdf

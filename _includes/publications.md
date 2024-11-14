@@ -19,22 +19,22 @@
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
-      {% if link.doi %} 
-      <a href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+      {% if link.doi %}
+      <a target="_blank" href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
       {% endif %}
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      {% if link.pdf %}
+      <a target="_blank" href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       {% endif %}
-      {% if link.arxiv %} 
-      <a href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
+      {% if link.arxiv %}
+      <a target="_blank" href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
       {% endif %}
-      {% if link.hal %} 
-      <a href="{{ link.hal }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">HAL</a>
+      {% if link.hal %}
+      <a target="_blank" href="{{ link.hal }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">HAL</a>
       {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      {% if link.code %}
+      <a target="_blank" href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
-      {% if link.others %} 
+      {% if link.others %}
       {{ link.others }}
       {% endif %}
     </div>
@@ -67,19 +67,19 @@
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
-      {% if link.doi %} 
-      <a href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+      {% if link.doi %}
+      <a target="_blank" href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
       {% endif %}
-      {% if link.arxiv %} 
-      <a href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
+      {% if link.arxiv %}
+      <a target="_blank" href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
       {% endif %}
-      {% if link.hal %} 
-      <a href="{{ link.hal }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">HAL</a>
+      {% if link.hal %}
+      <a target="_blank" href="{{ link.hal }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">HAL</a>
       {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      {% if link.code %}
+      <a target="_blank" href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
-      {% if link.others %} 
+      {% if link.others %}
       {{ link.others }}
       {% endif %}
     </div>
@@ -110,19 +110,19 @@
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
-      {% if link.doi %} 
-      <a href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+      {% if link.doi %}
+      <a target="_blank" href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
       {% endif %}
-      {% if link.arxiv %} 
-      <a href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
+      {% if link.arxiv %}
+      <a target="_blank" href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
       {% endif %}
-      {% if link.hal %} 
-      <a href="{{ link.hal }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">HAL</a>
+      {% if link.hal %}
+      <a target="_blank" href="{{ link.hal }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">HAL</a>
       {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      {% if link.code %}
+      <a target="_blank" href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
-      {% if link.others %} 
+      {% if link.others %}
       {{ link.others }}
       {% endif %}
     </div>
@@ -151,13 +151,13 @@
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><i>{{ link.location }}</i></div>
     <div class="links">
-      {% if link.link %} 
-      <a href="{{ link.link }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">THESES.FR</a>
+      {% if link.link %}
+      <a target="_blank" href="{{ link.link }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">THESES.FR</a>
       {% endif %}
-      {% if link.hal %} 
-      <a href="{{ link.hal }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">HAL</a>
+      {% if link.hal %}
+      <a target="_blank" href="{{ link.hal }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">HAL</a>
       {% endif %}
-      {% if link.others %} 
+      {% if link.others %}
       {{ link.others }}
       {% endif %}
     </div>

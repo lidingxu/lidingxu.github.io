@@ -12,8 +12,8 @@
       <div class="location">{{ link.location }}</div>
       <div class="conference"><em>{{ link.conference }}</em></div>
     <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      {% if link.pdf %}
+      <a target="_blank" href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
       {% endif %}
     </div>
   </div>
