@@ -60,8 +60,9 @@ published:
   - title: "Branch-and-price for energy optimization in multi-hop wireless sensor networks"
     authors: <strong>Liding Xu</strong> and Sonia Haddad Vanier
     conference: Networks
-    doi: https://doi.org/10.1002/net.22083
+    hal: https://hal.science/hal-03647212
     code: https://github.com/lidingxu/wUMCFC
+    doi: https://doi.org/10.1002/net.22083
 
   - title: "Optimization in Wireless Networks"
     authors: Antoine Oustry and <strong>Liding Xu</strong>, Sonia Haddad-Vanier,  Juan-Antonio Cordero and Thomas Clausen
