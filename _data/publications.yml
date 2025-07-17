@@ -7,10 +7,7 @@ submitted:
  #   code: https://github.com/MrGiovanni/ContinualLearning
  #  bibtex: https://bib.yliu.me/MICCAI23.txt
  #  image: ./assets/img/teaser_example_2.png
-  - title: "Sparsity-driven Aggregation of Mixed Integer Programs"
-    authors: <strong>Liding Xu</strong>, Gioni Mexi and Ksenia Bestuzheva
-    conference: Technical report
-    arxiv: https://arxiv.org/abs/2502.01192
+
 
   - title: "Relaxations for binary polynomial optimization via signed certificates"
     authors: <strong>Liding Xu</strong> and Leo Liberti
@@ -24,18 +21,24 @@ submitted:
     arxiv: https://arxiv.org/abs/2404.10467
     code: https://github.com/lidingxu/cflg
 
-  - title: "On Cutting Planes for Signomial Programming"
-    authors: <strong>Liding Xu</strong>, Claudia D'Ambrosio, Leo Liberti and Sonia Haddad Vanier
-    conference: SIAM Journal on Optimization (to appear)
-    arxiv: https://arxiv.org/abs/2212.02857
-    code: https://github.com/lidingxu/ESPCuts
-
 
 accepted:
 
 
 published:
-
+  - title: "Sparsity-driven Aggregation of Mixed Integer Programs"
+    authors: <strong>Liding Xu</strong>, Gioni Mexi and Ksenia Bestuzheva
+    conference: 23rd International Symposium on Experimental Algorithms (SEA 2025) 
+    arxiv: https://arxiv.org/abs/2502.01192
+    doi: https://doi.org/10.4230/LIPIcs.SEA.2025.27
+    
+  - title: "On Cutting Planes for Signomial Programming"
+    authors: <strong>Liding Xu</strong>, Claudia D'Ambrosio, Leo Liberti and Sonia Haddad Vanier
+    conference: SIAM Journal on Optimization 
+    arxiv: https://arxiv.org/abs/2212.02857
+    code: https://github.com/lidingxu/ESPCuts
+    doi: https://doi.org/10.1137/23M1599537
+    
   - title: "Submodular maximization and its generalization through an intersection cut lens"
     authors: <strong>Liding Xu</strong> and Leo Liberti
     conference: Mathematical Programming B
