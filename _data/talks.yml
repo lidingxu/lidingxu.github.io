@@ -7,6 +7,12 @@ main:
  #   code: https://github.com/MrGiovanni/ContinualLearning
  #  bibtex: https://bib.yliu.me/MICCAI23.txt
  #  image: ./assets/img/teaser_example_2.png
+  - title: "Relaxations for Binary Polynomial Optimization via Signed Certificates"
+    location: Los Angles, USA, 2025-07
+    conference: 2025 INTERNATIONAL CONFERENCE ON CONTINUOUS OPTIMIZATION (ICCOPT2025)
+    link: https://sites.google.com/view/iccopt2025/home
+    pdf: /slides/ICCOPT2025.pdf
+    
   - title: "Modelling of piece-wise linear concave constraints in continous covering problems"
     location: Copenhagen, Denmark, 2024-07
     conference: 33rd European Conference on Operational Research (EURO2024)
