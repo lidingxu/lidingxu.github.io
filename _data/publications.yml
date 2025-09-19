@@ -15,12 +15,6 @@ submitted:
     arxiv: https://arxiv.org/abs/2405.13447
     code: https://github.com/lidingxu/ESPCuts
 
-  - title: "Formulations of the continuous set-covering problem on networks: a comparative study"
-    authors: <strong>Liding Xu</strong> and Claudia D'Ambrosio
-    conference: Technical report
-    arxiv: https://arxiv.org/abs/2404.10467
-    code: https://github.com/lidingxu/cflg
-
 
 accepted:
 
@@ -79,6 +73,14 @@ published:
     conference: Encyclopedia of Optimization
     hal: https://hal.science/hal-03723027
     doi: https://doi.org/10.1007/978-3-030-54621-2_747-1
+
+technical report:
+
+  - title: "Formulations of the continuous set-covering problem on networks: a comparative study"
+    authors: <strong>Liding Xu</strong> and Claudia D'Ambrosio
+    conference: Technical report
+    arxiv: https://arxiv.org/abs/2404.10467
+    code: https://github.com/lidingxu/cflg
 
 phdthesis:
 
