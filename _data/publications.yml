@@ -9,7 +9,7 @@ submitted:
  #  image: ./assets/img/teaser_example_2.png
 
 
-  - title: "Relaxations for binary polynomial optimization via signed certificates" (under Major Revision)
+  - title: "Relaxations for binary polynomial optimization via signed certificates (under Major Revision)"
     authors: <strong>Liding Xu</strong> and Leo Liberti
     conference: Technical report
     arxiv: https://arxiv.org/abs/2405.13447
@@ -22,17 +22,17 @@ accepted:
 published:
   - title: "Sparsity-driven Aggregation of Mixed Integer Programs"
     authors: <strong>Liding Xu</strong>, Gioni Mexi and Ksenia Bestuzheva
-    conference: 23rd International Symposium on Experimental Algorithms (SEA 2025) 
+    conference: 23rd International Symposium on Experimental Algorithms (SEA 2025)
     arxiv: https://arxiv.org/abs/2502.01192
     doi: https://doi.org/10.4230/LIPIcs.SEA.2025.27
-    
+
   - title: "On Cutting Planes for Signomial Programming"
     authors: <strong>Liding Xu</strong>, Claudia D'Ambrosio, Leo Liberti and Sonia Haddad Vanier
-    conference: SIAM Journal on Optimization 
+    conference: SIAM Journal on Optimization
     arxiv: https://arxiv.org/abs/2212.02857
     code: https://github.com/lidingxu/ESPCuts
     doi: https://doi.org/10.1137/23M1599537
-    
+
   - title: "Submodular maximization and its generalization through an intersection cut lens"
     authors: <strong>Liding Xu</strong> and Leo Liberti
     conference: Mathematical Programming B
