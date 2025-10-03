@@ -136,7 +136,46 @@
 
 </ol>
 
+<h3 id="publications">Reports</h3>
 
+<ol class="bibliography">
+
+
+{% for link in site.data.publications.reports %}
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title">{{ link.title }}</div>
+      <div class="author">{{ link.authors }}</div>
+      <div class="periodical"><em>{{ link.conference }}</em>
+      </div>
+    <div class="links">
+      {% if link.doi %}
+      <a target="_blank" href="{{ link.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">DOI</a>
+      {% endif %}
+      {% if link.arxiv %}
+      <a target="_blank" href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
+      {% endif %}
+      {% if link.hal %}
+      <a target="_blank" href="{{ link.hal }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">HAL</a>
+      {% endif %}
+      {% if link.code %}
+      <a target="_blank" href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      {% endif %}
+      {% if link.others %}
+      {{ link.others }}
+      {% endif %}
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
+{% endfor %}
+
+</ol>
 
 <h3 id="publications">Ph.D. thesis</h3>
 

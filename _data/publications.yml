@@ -9,7 +9,7 @@ submitted:
  #  image: ./assets/img/teaser_example_2.png
 
 
-  - title: "Relaxations for binary polynomial optimization via signed certificates"
+  - title: "Relaxations for binary polynomial optimization via signed certificates" (under Major Revision)
     authors: <strong>Liding Xu</strong> and Leo Liberti
     conference: Technical report
     arxiv: https://arxiv.org/abs/2405.13447
@@ -74,7 +74,7 @@ published:
     hal: https://hal.science/hal-03723027
     doi: https://doi.org/10.1007/978-3-030-54621-2_747-1
 
-technical report:
+reports:
 
   - title: "Formulations of the continuous set-covering problem on networks: a comparative study"
     authors: <strong>Liding Xu</strong> and Claudia D'Ambrosio
