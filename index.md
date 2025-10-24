@@ -21,7 +21,7 @@ I primarily work in C++ and Julia. Source codes for my research are usually avai
 * **M.S.** in Mathematics, Optimization track,  Université Paris-Saclay & Institut Polytechnique de Paris, 2020
 * **B.S.** in Machine Intelligence, Peking University, 2018
 
-Full CV: <a target="_blank" href="/files/liding_xu_cv.pdf"><autocolor>pdf</autocolor></a>
+Full CV (updated 2025-10-24): <a target="_blank" href="/files/liding_xu_cv.pdf"><autocolor>pdf</autocolor></a>
 
 {% include_relative _includes/publications.md %}
 
