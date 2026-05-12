@@ -7,6 +7,10 @@ submitted:
  #   code: https://github.com/MrGiovanni/ContinualLearning
  #  bibtex: https://bib.yliu.me/MICCAI23.txt
  #  image: ./assets/img/teaser_example_2.png
+  - title: "Agentic MIP Research: Accelerated Constraint Handler Generation (submitted)"
+    authors: <strong>Liding Xu</strong>, Yugeng Zhou, Sebastian Pokutta
+    conference: Technical report
+    arxiv: https://arxiv.org/abs/2605.09186
 
   - title: "Convex semidefinite tensor optimization and quantum entanglement (submitted)"
     authors: <strong>Liding Xu</strong>, Ye-Chao Liu, Sebastian Pokutta
