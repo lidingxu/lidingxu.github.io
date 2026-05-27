@@ -8,12 +8,9 @@ I am a postdoc researcher in <a target="_blank" href="https://iol.zib.de/"><auto
 
 
 ## Research Areas
+My work leverages mathematical tools from optimization theory to design reliable algorithms for hard optimization problems arising in combinatorics, operations research, and quantum physics. My primary research interest lies in operational intelligence systems and new interfaces for optimization—integrating a decision-centric front-end with robust, reliable back-end algorithms.
 
-My work leverages mathematical tools from optimization theory, including lifting techniques, decomposition methods, and cutting-plane methods. These tools enable the design of reliable algorithms for hard optimization problems arising in combinatorics, operations research, and quantum physics.
-
-Beyond theory, I am passionate about translating fundamental advances into practice—developing algorithms that can tackle challenging real-world problems while remaining reproducible and accessible. This motivation naturally connects my research to the development of robust optimization software systems, most notably through my contributions to the open source MILP solver: <a target="_blank" href="https://www.scipopt.org/"><autocolor>SCIP</autocolor></a>.  In particular, I build LLM agents to accelerate the new optimization interface.
-
-I primarily work in C++ and Julia. Source codes for my research are usually available in my <a target="_blank" href="https://github.com/lidingxu?tab=repositories"><autocolor>GitHub repositories</autocolor></a>.
+I have contributed to the open source MILP solver: <a target="_blank" href="https://www.scipopt.org/"><autocolor>SCIP</autocolor></a>. Source codes for my research are usually available in my <a target="_blank" href="https://github.com/lidingxu?tab=repositories"><autocolor>GitHub repositories</autocolor></a>.
 
 ## Bio
 
