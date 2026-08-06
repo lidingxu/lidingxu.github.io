@@ -18,7 +18,7 @@ I have contributed to the open source MILP solver: <a target="_blank" href="http
 * **M.S.** in Mathematics, Optimization track,  Université Paris-Saclay & Institut Polytechnique de Paris, 2020
 * **B.S.** in Machine Intelligence, Peking University, 2018
 
-Full CV (updated 2026-05-27): <a target="_blank" href="/files/liding_xu_cv.pdf"><autocolor>pdf</autocolor></a>
+Full CV (updated 2026-08-06): <a target="_blank" href="/files/liding_xu_cv.pdf"><autocolor>pdf</autocolor></a>
 
 {% include_relative _includes/publications.md %}
 

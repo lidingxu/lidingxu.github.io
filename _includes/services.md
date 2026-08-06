@@ -15,8 +15,9 @@
   <li><a target="_blank" href="https://www.sciencedirect.com/journal/operations-research-letters"><autocolor>Operations Research Letters</autocolor></a></li>
   <li><a target="_blank" href="https://www.sciencedirect.com/journal/discrete-applied-mathematics"><autocolor>Discrete Applied Mathematics</autocolor></a></li>
   <li><a target="_blank" href="https://pubsonline.informs.org/journal/IJOC"><autocolor>INFORMS Journal on Computing</autocolor></a></li>
-   <li><a target="_blank" href="https://pubsonline.informs.org/journal/moor"><autocolor>Mathematics of Operations Research</autocolor></a></li>
+  <li><a target="_blank" href="https://pubsonline.informs.org/journal/moor"><autocolor>Mathematics of Operations Research</autocolor></a></li>
   <li><a target="_blank" href="https://www.tandfonline.com/journals/goms20"><autocolor>Optimization Methods and Software</autocolor></a></li>
+  <li><a target="_blank" href="https://link.springer.com/journal/10288"><autocolor>4 OR</autocolor></a></li>
 </ul>
 
 
