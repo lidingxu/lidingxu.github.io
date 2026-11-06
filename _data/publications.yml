@@ -12,11 +12,6 @@ submitted:
     conference: Technical report
     arxiv:  https://arxiv.org/abs/2608.03318
 
-  - title: "Agentic MIP Research: Accelerated Constraint Handler Generation (submitted)"
-    authors: <strong>Liding Xu</strong>, Yugeng Zhou, Sebastian Pokutta
-    conference: Technical report
-    arxiv: https://arxiv.org/abs/2605.09186
-
   - title: "Convex semidefinite tensor optimization and quantum entanglement (submitted)"
     authors: <strong>Liding Xu</strong>, Ye-Chao Liu, Sebastian Pokutta
     conference: Technical report
@@ -94,6 +89,11 @@ published:
     doi: https://doi.org/10.1007/978-3-030-54621-2_747-1
 
 reports:
+
+  - title: "Agentic MIP Research: Accelerated Constraint Handler Generation"
+    authors: <strong>Liding Xu</strong>, Yugeng Zhou, Sebastian Pokutta
+    conference: Technical report
+    arxiv: https://arxiv.org/abs/2605.09186
 
 phdthesis:
 

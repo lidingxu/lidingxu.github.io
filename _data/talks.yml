@@ -7,6 +7,12 @@ main:
  #   code: https://github.com/MrGiovanni/ContinualLearning
  #  bibtex: https://bib.yliu.me/MICCAI23.txt
  #  image: ./assets/img/teaser_example_2.png
+  - title: "On ADMM, Frank-Wolfe, Cutting plane algorithms for Quantum Entanglement Detection"
+    location: Linz, Austria, 2026-06
+    conference: The 23rd EUROPT Conference on Advances in Continuous Optimization (EUROPT 2026)
+    link: https://www.jku.at/en/institute-of-business-analytics-and-technology-transformation/conference-europt-2026/
+    pdf: /slides/EUROOPT2026.pdf
+
   - title: "Relaxations for Binary Polynomial Optimization via Signed Certificates"
     location: Los Angeles, USA, 2025-07
     conference: 2025 INTERNATIONAL CONFERENCE ON CONTINUOUS OPTIMIZATION (ICCOPT2025)
